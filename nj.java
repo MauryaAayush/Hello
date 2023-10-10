@@ -8,8 +8,7 @@ public class nj {
         System.out.println("hello everyone");
         System.out.println("hello world");
         System.out.println("Hello world");
-        System.out.println("hello world");
-        System.out.println("Hello world");
+
 
     }
 }
