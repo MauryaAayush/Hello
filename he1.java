@@ -5,7 +5,7 @@ public class he1 {
         System.out.println("hello everyone");
         System.out.println("hello everyone");
         System.out.println("hello everyone");
-        System.out.println("hello everyone");
+
 
     }
 }
