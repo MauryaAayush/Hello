@@ -16,8 +16,6 @@ public class h2 {
         System.out.println("Hello world");
         System.out.println("hello world");
         System.out.println("Hello world");
-        System.out.println("hello world");
-        System.out.println("Hello world");
-        
+      
     }
 }
